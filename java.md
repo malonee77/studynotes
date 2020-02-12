@@ -44,9 +44,11 @@ Para armazenar um texto deve-se declarar uma variável tipo *string*
         
 ### Exemplo de média entre variáveis
 
-       int ano1 = 560, ano2 = 670, ano3= 540;
-       float media = (ano1 + ano2 + ano3)/3;
-       System.out.print("A média de vilões apreendidos é: ");
-       System.out.println(media);
+        int ano1 = 560, ano2 = 670, ano3 = 540;
+        float media = (ano1 + ano2 + ano3) / 3;
+        System.out.print("A média de vilões apreendidos é: ");
+        System.out.println(media);
+        System.out.print("A soma é: ");
+        System.out.println(media * 3);
 
         
