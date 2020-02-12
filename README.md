@@ -1,2 +1,3 @@
-# studynotes
-Minhas notas de estudo sobre diversos assuntos
+# Study Notes
+
+Esse é o repositório sobre as minhas notas de estudo sobre diversos assuntos. 
