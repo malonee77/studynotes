@@ -2,7 +2,7 @@
 
 Caso tenha dificuldades em instalar o opencv, veja o passo a passo aqui:
 
-// colocar link do repositorio
+https://github.com/malonee77/raspberrypi/blob/master/opencv.md
 
 ## Importando e exibindo uma imagem
   
