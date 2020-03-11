@@ -11,7 +11,7 @@ Para baixar a IDE, acessar:
 O comando abaixo, printa uma mensagem. 
 
     System.out.println("Hello Java");
-    System.out.println("Olá turma");
+    System.out.print("Olá turma");
 
 O segundo comando não pula linha. 
 
