@@ -55,3 +55,16 @@ O processo de análise de imagens por visão computacional ocorre seguindo um me
 
     captura.release()
     cv2.destroyAllWindows()
+   
+   
+   
+## Segmentação por cor
+
+| Cor      | Limite inferior | Limite superior |
+| -------- | --------------- | --------------- |
+| Amarelo  | 10, 1001 100    | 50, 255, 255    |
+| Azul     | 100, 100, 100   | 140, 255, 255   |
+| Verde    | 40, 100, 100    | 80, 255, 255    |
+| Vermelho | 160, 100, 100   | 200, 255, 255   |
+
+
