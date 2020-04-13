@@ -7,5 +7,5 @@ Os arquivos são referentes aos seguintes temas:
 - JAVA (javabasico.md)
 - OpenCV (opencv.md)
 - Visão Computacional (visao_computacional.md)
-- Raspberry Pi (raspberry_pi.md)
+- Raspberry Pi (\raspberry_pi.md)
 - FDTD (FDTD.md)
