@@ -5,7 +5,7 @@ Esse é o repositório sobre as minhas notas de estudo sobre diversos assuntos.
 Os arquivos são referentes aos seguintes temas: 
 
 - [JAVA](https://github.com/matheusmagalhaess/studynotes/blob/master/javabasico.md)
-- [OpenCV](https://github.com/matheusmagalhaess/studynotes/blob/master/opencv.md)
+- [Como instalar OpenCV na Raspberry](https://github.com/matheusmagalhaess/studynotes/blob/master/opencv.md)
 - [Visão Computacional](https://github.com/matheusmagalhaess/studynotes/blob/master/visao_computacional.md)
 - [Raspberry Pi](https://github.com/matheusmagalhaess/studynotes/blob/master/raspberry_pi.md)
 - [FDTD](https://github.com/matheusmagalhaess/studynotes/blob/master/FDTD.md)
