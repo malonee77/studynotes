@@ -1,8 +1,15 @@
-# Análise por visão computacional
+# Análise por visão computacional, primeiros passos
 
 Referência: Introdução a Visão Computacional de Felipe Barelli
 
 Os códigos são desenvolvidos em Python usando a biblioteca OpenCV.
+
+## Instalação da biblioteca OpenCV no Windows
+
+Para instalar a bilbioteca, abra o terminal do Windows (ctrl+R 'cmd') e digite o comando
+
+	pip install opencv-pyhton
+
 ## Introdução
 
 O processo de análise de imagens por visão computacional ocorre seguindo um mesmo fluxograma de etapas. São elas:
