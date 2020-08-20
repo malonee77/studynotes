@@ -8,4 +8,5 @@ Os arquivos são referentes aos seguintes temas:
 - [Como instalar OpenCV na Raspberry](https://github.com/matheusmagalhaess/studynotes/blob/master/opencv.md)
 - [Visão Computacional](https://github.com/matheusmagalhaess/studynotes/blob/master/visao_computacional.md)
 - [Raspberry Pi](https://github.com/matheusmagalhaess/studynotes/blob/master/raspberry_pi.md)
-- [FDTD](https://github.com/matheusmagalhaess/studynotes/blob/master/FDTD.md)
+- [Segurança da Informação](https://github.com/matheusmagalhaess/studynotes/blob/master/seguranca_da_informacao.md)
+
