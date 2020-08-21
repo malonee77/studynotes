@@ -39,6 +39,30 @@ Intecionados em roubar cartões de crédito, etc...
 3 - Pós-exploração (uso de scripts e coleta de dados sensíveis)
 
     Compreender as principais vulnerabilidades web e todo passo a passo para explorá-las. (Vejamos...)
+    
+    
+## Coleta de dados 
+
+- Buscar informações públicas sem invasão, apenas por exploração. 
+
+- Google Hacking
+
+- Registrar as infos, é muito importante anotá-las.
+
+- whois.com
+
+- archive.com
+
+- shodan.io
+
+- wappalyzer
+
+- dirb (windows dirbuster)
+
+- php info (version)
+
+
+
 
 
 
