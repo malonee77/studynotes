@@ -61,8 +61,9 @@ Intecionados em roubar cartões de crédito, etc...
 
 - php info (version)
 
+## Os pilares das Falhas 
+### Learn
 
-
-
-
-
+ - SQL Injection >> manipulação da conversa da aplicação com o banco de dados
+ 
+ 
