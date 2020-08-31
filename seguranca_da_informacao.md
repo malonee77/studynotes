@@ -1,5 +1,6 @@
 # Estudos iniciais sobre Segurança da Informação 
 
+>> Informações retiradas do curso "Defendendo aplicações WEB"
 - SSL só protege a camada de transporte. 
 - Selo de segurança é só uma imagem. 
 - Não existe um plano de hospedagem 100% seguro. 
@@ -66,4 +67,8 @@ Intecionados em roubar cartões de crédito, etc...
 
  - SQL Injection >> manipulação da conversa da aplicação com o banco de dados
  
+ ### Query string 
  
+ SELECT * FROM users WHERE email = $email and pass = $pass
+ 
+
